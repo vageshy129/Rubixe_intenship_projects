@@ -22,3 +22,10 @@ The smallest datasets are provided to test more computationally demanding machin
 The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
 
 WE worked on 3rd data set
+
+# Business case:
+
+Identify potential customers who are relatively more likely to subscribe to the term deposit
+
+# Type of problem :
+For the given data we Perform Classification Task.
